@@ -21,7 +21,7 @@ body{
     /*height: 536px;*/
     border-radius: 20px;
     background: #FFF;
-    box-shadow: 40px 15px 136px 0px rgba(0, 0, 0, 0.20);
+    box-shadow: 40px 15px 136px 0 rgba(0, 0, 0, 0.20);
 }
 .box-news>div>img{
     width: 25vw;
